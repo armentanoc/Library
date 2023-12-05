@@ -26,17 +26,11 @@ It uses lists to represent available and borrowed books, and dictionaries to sto
    ```bash
    git clone https://github.com/armentanoc/LibraryManagementSystem.git
    ```
-2. Navigate to the project directory:
+2. Open the project in your preferred C#/.NET development environment.
 
-  ```bash
-  cd LibraryManagementSystem
-  ```
+3. Run the program.
 
-3. Open the project in your preferred C#/.NET development environment.
-
-4. Run the program.
-
-5. Interact with the menu to perform various actions, such as borrowing, returning, adding new books, and viewing statistics.
+4. Interact with the menu to perform various actions, such as borrowing, returning, adding new books, and viewing statistics.
 
 ## Additional Features 
 * Due Dates: Add due dates for borrowed books.
