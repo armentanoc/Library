@@ -37,3 +37,7 @@ It uses lists to represent available and borrowed books, and dictionaries to sto
 * Late Fee: Implement a system to check for and apply fines for overdue books.
 * Advanced Search: allow users to search for books by author, genre, or other criteria.
 * Enhanced Statistics: Include more detailed statistics, such as the most borrowed book or the most active borrower.
+
+## Demo Video
+https://github.com/armentanoc/LibraryManagementSystem/assets/88147887/61e87c69-0b19-4770-9368-62a5d31a08e6
+
